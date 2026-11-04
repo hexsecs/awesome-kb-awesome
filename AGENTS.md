@@ -52,3 +52,14 @@ freshness warnings are expected; never suppress them with invented dates.
 Some source bullets have no description. Their neutral generated summary is
 Listed resource: <title>. Source headings supply categories. The immutable
 source capture preserves original indentation and unlinked parent labels.
+
+## Generated README list
+
+The README contains a marked generated list, maintained by tools/render_readme.py
+from the same index graph. Ingest updates both views; do not edit between the
+generated markers. Introduction and license sections outside the markers stay
+manual. Entry names link to KB pages and upstream links open original resources.
+Large catalogs continue under lists/ at category boundaries to keep README and
+continuation pages below GitHub's 500 KiB display limit. These files are generated,
+not additional OpenShelf entities. Run python3 tools/render_readme.py --check to
+verify completeness, links, display size and synchronization.
