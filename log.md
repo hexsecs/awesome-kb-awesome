@@ -7,3 +7,11 @@ sindresorhus/awesome at bc98e517ddca672f55f9857d714fc3ea3c3540b2.
 Retained categories, source descriptions, source capture and CC0-1.0.
 Every entity starts at depth stub with unknown resource status. No linked
 list was recursively ingested. Added repeatable ingestion and CI gates.
+
+## [2026-11-04] update | Restore traditional README list browsing
+
+Generate a categorized resource list inline in README from the OpenShelf index,
+with KB and upstream links for each entry. Preserve manual introduction and
+license notices. Split oversized catalogs at category boundaries into linked
+continuation pages below GitHub's display limit. Ingest maintains the view and
+validation checks coverage, links, size and synchronization.
