@@ -1,0 +1,24 @@
+---
+uid: 01a1a885-4f5a-7c6e-af95-dcc0ce8bc067
+title: "Theoretical Computer Science"
+summary: "The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique."
+type: entity
+category: "Computer Science"
+url: "https://github.com/mostafatouny/awesome-theoretical-computer-science#readme"
+status: unknown
+created: 2026-11-04
+updated: 2026-11-04
+depth: stub
+source_list: awesome
+source_commit: bc98e517ddca672f55f9857d714fc3ea3c3540b2
+list_summary: "The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique."
+sources:
+  - url: "https://github.com/sindresorhus/awesome/blob/bc98e517ddca672f55f9857d714fc3ea3c3540b2/readme.md"
+    retrieved: 2026-11-04
+---
+
+The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+
+- **Resource:** https://github.com/mostafatouny/awesome-theoretical-computer-science#readme
+- **List section:** Computer Science
+- **Source:** [awesome](https://github.com/sindresorhus/awesome) — the list is canon; this page is a generated stub (`depth: stub`). Depth is added by PR (see AGENTS.md).

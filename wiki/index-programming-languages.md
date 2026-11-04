@@ -1,0 +1,79 @@
+# Programming Languages
+
+- [JavaScript](javascript.md) — Listed resource: JavaScript.
+- [Promises](promises.md) — Listed resource: Promises.
+- [Standard Style](standard-style.md) — Style guide and linter.
+- [Must Watch Talks](must-watch-talks.md) — Listed resource: Must Watch Talks.
+- [Tips](tips.md) — Listed resource: Tips.
+- [Network Layer](network-layer.md) — Listed resource: Network Layer.
+- [Micro npm Packages](micro-npm-packages.md) — Listed resource: Micro npm Packages.
+- [Mad Science npm Packages](mad-science-npm-packages.md) — Impossible sounding projects that exist.
+- [Maintenance Modules](maintenance-modules.md) — For npm packages.
+- [npm](npm.md) — Package manager.
+- [AVA](ava.md) — Test runner.
+- [ESLint](eslint.md) — Linter.
+- [Functional Programming](functional-programming.md) — Listed resource: Functional Programming.
+- [Observables](observables.md) — Listed resource: Observables.
+- [npm scripts](npm-scripts.md) — Task runner.
+- [30 Seconds of Code](30-seconds-of-code.md) — Code snippets you can understand in 30 seconds.
+- [Ponyfills](ponyfills.md) — Like polyfills but without overriding native APIs.
+- [Swift](swift.md) — Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+- [Education](education.md) — Listed resource: Education.
+- [Playgrounds](playgrounds.md) — Listed resource: Playgrounds.
+- [Python](python.md) — General-purpose programming language designed for readability.
+- [Asyncio](asyncio.md) — Asynchronous I/O in Python 3.
+- [Scientific Audio](scientific-audio.md) — Scientific research in audio/music.
+- [CircuitPython](circuitpython.md) — A version of Python for microcontrollers.
+- [Data Science](data-science.md) — Data analysis and machine learning.
+- [Typing](typing.md) — Optional static typing for Python.
+- [MicroPython](micropython.md) — A lean and efficient implementation of Python 3 for microcontrollers.
+- [Rust](rust.md) — Listed resource: Rust.
+- [Pest](pest.md) — Parser generator.
+- [Haskell](haskell.md) — Listed resource: Haskell.
+- [PureScript](purescript.md) — Listed resource: PureScript.
+- [Go](go.md) — Listed resource: Go.
+- [Scala](scala.md) — Listed resource: Scala.
+- [Scala Native](scala-native.md) — Optimizing ahead-of-time compiler for Scala based on LLVM.
+- [Ruby](ruby.md) — Listed resource: Ruby.
+- [Clojure](clojure.md) — Listed resource: Clojure.
+- [ClojureScript](clojurescript.md) — Listed resource: ClojureScript.
+- [Elixir](elixir.md) — Listed resource: Elixir.
+- [Elm](elm.md) — Listed resource: Elm.
+- [Erlang](erlang.md) — Listed resource: Erlang.
+- [Julia](julia.md) — High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+- [Lua](lua.md) — Listed resource: Lua.
+- [C/C++](c-c.md) — General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [R](r.md) — Functional programming language and environment for statistical computing and graphics.
+- [Learning](learning.md) — Listed resource: Learning.
+- [D](d.md) — Listed resource: D.
+- [Common Lisp](common-lisp.md) — Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+- [Learning](learning-2.md) — Listed resource: Learning.
+- [Perl](perl.md) — Listed resource: Perl.
+- [Groovy](groovy.md) — Listed resource: Groovy.
+- [Dart](dart.md) — Listed resource: Dart.
+- [Java](java.md) — Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+- [RxJava](rxjava.md) — Listed resource: RxJava.
+- [J2ME](j2me.md) — Java specification designed for old keypad phones and PDAs..
+- [Kotlin](kotlin.md) — Listed resource: Kotlin.
+- [OCaml](ocaml.md) — Listed resource: OCaml.
+- [ColdFusion](coldfusion.md) — Listed resource: ColdFusion.
+- [Fortran](fortran.md) — Listed resource: Fortran.
+- [PHP](php.md) — Server-side scripting language.
+- [Composer](composer.md) — Package manager.
+- [Pascal](pascal.md) — Listed resource: Pascal.
+- [AutoHotkey](autohotkey.md) — Listed resource: AutoHotkey.
+- [AutoIt](autoit.md) — Listed resource: AutoIt.
+- [Crystal](crystal.md) — Listed resource: Crystal.
+- [CMake](cmake.md) — Build, test, and package software.
+- [ActionScript 3](actionscript-3.md) — Object-oriented language targeting Adobe AIR.
+- [Idris](idris.md) — General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Ada/SPARK](ada-spark.md) — Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+- [Q#](q.md) — Domain-specific programming language used for expressing quantum algorithms.
+- [Imba](imba.md) — Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+- [Vala](vala.md) — Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+- [Coq](coq.md) — Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [V](v.md) — Simple, fast, safe, compiled language for developing maintainable software.
+- [Move](move.md) — Domain-specific programming language for writing safe smart contracts.
+- [Esolangs](esolangs.md) — Programming languages designed for experimentation or as jokes rather than actual use.
+- [VBA](vba.md) — An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+- [F#](f.md) — A .NET-based language with focus on functional programming.

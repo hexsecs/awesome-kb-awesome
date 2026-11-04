@@ -1,0 +1,40 @@
+# Computer Science
+
+- [University Courses](university-courses.md) — Listed resource: University Courses.
+- [Data Science](data-science-2.md) — Listed resource: Data Science.
+- [Tutorials](tutorials.md) — Listed resource: Tutorials.
+- [Machine Learning](machine-learning.md) — Listed resource: Machine Learning.
+- [Tutorials](tutorials-2.md) — Listed resource: Tutorials.
+- [ML with Ruby](ml-with-ruby.md) — Learning, implementing, and applying Machine Learning using Ruby.
+- [Core ML Models](core-ml-models.md) — Models for Apple's machine learning framework.
+- [H2O](h2o.md) — Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md) — From experiment to production-level machine learning.
+- [AI in Finance](ai-in-finance.md) — Solving problems in finance with machine learning.
+- [JAX](jax.md) — Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+- [XAI](xai.md) — Providing insight, explanations, and interpretability to machine learning methods.
+- [Speech and Natural Language Processing](speech-and-natural-language-processing.md) — Listed resource: Speech and Natural Language Processing.
+- [Spanish](spanish.md) — Listed resource: Spanish.
+- [NLP with Ruby](nlp-with-ruby.md) — Listed resource: NLP with Ruby.
+- [Question Answering](question-answering.md) — The science of asking and answering in natural language with a machine.
+- [Natural Language Generation](natural-language-generation.md) — Generation of text used in data-to-text, conversational agents, and narrative generation applications.
+- [Linguistics](linguistics.md) — Listed resource: Linguistics.
+- [Cryptography](cryptography.md) — Listed resource: Cryptography.
+- [Papers](papers.md) — Theory basics for using cryptography by non-cryptographers.
+- [Computer Vision](computer-vision.md) — Listed resource: Computer Vision.
+- [Deep Learning](deep-learning.md) — Neural networks.
+- [TensorFlow](tensorflow.md) — Library for machine intelligence.
+- [TensorFlow.js](tensorflow-js.md) — WebGL-accelerated machine learning JavaScript library for training and deploying models.
+- [TensorFlow Lite](tensorflow-lite.md) — Framework that optimizes TensorFlow models for on-device machine learning.
+- [Papers](papers-2.md) — The most cited deep learning papers.
+- [Education](education-4.md) — Listed resource: Education.
+- [Deep Vision](deep-vision.md) — Listed resource: Deep Vision.
+- [Open Source Society University](open-source-society-university.md) — Listed resource: Open Source Society University.
+- [Functional Programming](functional-programming-2.md) — Listed resource: Functional Programming.
+- [Empirical Software Engineering](empirical-software-engineering.md) — Evidence-based research on software systems.
+- [Static Analysis & Code Quality](static-analysis-code-quality.md) — Listed resource: Static Analysis & Code Quality.
+- [Information Retrieval](information-retrieval.md) — Learn to develop your own search engine.
+- [Quantum Computing](quantum-computing.md) — Computing that utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science](theoretical-computer-science.md) — The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+- [Conversational AI](conversational-ai.md) — Build awesome chatbots and digital assistants.
+- [Generative AI](generative-ai.md) — Automatically generates a wide range of unique content in text, image, and audio format.
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md) — Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.

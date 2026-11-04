@@ -1,0 +1,134 @@
+# Miscellaneous
+
+- [Scientific Writing](scientific-writing.md) — Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [JSON](json.md) — Text based data interchange format.
+- [GeoJSON](geojson.md) — Listed resource: GeoJSON.
+- [CSV](csv.md) — A text file format that stores tabular data and uses a comma to separate values.
+- [Discounts for Student Developers](discounts-for-student-developers.md) — Listed resource: Discounts for Student Developers.
+- [Radio](radio.md) — Listed resource: Radio.
+- [Awesome](awesome.md) — Recursion illustrated.
+- [Analytics](analytics.md) — Listed resource: Analytics.
+- [REST](rest.md) — Listed resource: REST.
+- [Continuous Integration and Continuous Delivery](continuous-integration-and-continuous-delivery.md) — Listed resource: Continuous Integration and Continuous Delivery.
+- [Services Engineering](services-engineering.md) — Listed resource: Services Engineering.
+- [Free for Developers](free-for-developers.md) — Listed resource: Free for Developers.
+- [Boilerplate Projects](boilerplate-projects.md) — Listed resource: Boilerplate Projects.
+- [Readme](readme.md) — Listed resource: Readme.
+- [GitHub Wiki](github-wiki.md) — Comprehensive documentation on GitHub beyond README.
+- [Design and Development Guides](design-and-development-guides.md) — Listed resource: Design and Development Guides.
+- [Software Engineering Blogs](software-engineering-blogs.md) — Listed resource: Software Engineering Blogs.
+- [Self Hosted](self-hosted.md) — Listed resource: Self Hosted.
+- [FOSS Production Apps](foss-production-apps.md) — Listed resource: FOSS Production Apps.
+- [Gulp](gulp.md) — Task runner.
+- [AMA](ama.md) — Ask Me Anything.
+- [Answers](answers.md) — Listed resource: Answers.
+- [Open Source Photography](open-source-photography.md) — Listed resource: Open Source Photography.
+- [OpenGL](opengl.md) — Cross-platform API for rendering 2D and 3D graphics.
+- [GraphQL](graphql.md) — Listed resource: GraphQL.
+- [Urban & Regional Planning](urban-regional-planning.md) — Concerning the built environment and communities.
+- [Transit](transit.md) — Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
+- [Research Tools](research-tools.md) — Listed resource: Research Tools.
+- [Data Visualization](data-visualization.md) — Listed resource: Data Visualization.
+- [Microservices](microservices.md) — Listed resource: Microservices.
+- [Unicode](unicode.md) — Standards, quirks, packages and resources for Unicode.
+- [Code Points](code-points.md) — Listed resource: Code Points.
+- [Beginner-Friendly Projects](beginner-friendly-projects.md) — Listed resource: Beginner-Friendly Projects.
+- [Katas](katas.md) — Listed resource: Katas.
+- [Tools for Activism](tools-for-activism.md) — Listed resource: Tools for Activism.
+- [Citizen Science](citizen-science.md) — For community-based and non-institutional scientists.
+- [MQTT](mqtt.md) — "Internet of Things" connectivity protocol.
+- [For Girls](for-girls.md) — Listed resource: For Girls.
+- [Vorpal](vorpal.md) — Node.js CLI framework.
+- [Vulkan](vulkan.md) — Low-overhead, cross-platform 3D graphics and compute API.
+- [LaTeX](latex.md) — Typesetting language.
+- [Economics](economics.md) — An economist's starter kit.
+- [Funny Markov Chains](funny-markov-chains.md) — Listed resource: Funny Markov Chains.
+- [Bioinformatics](bioinformatics.md) — Listed resource: Bioinformatics.
+- [Cheminformatics](cheminformatics.md) — Informatics techniques applied to problems in chemistry.
+- [Colorful](colorful.md) — Choose your next color scheme.
+- [Steam](steam-2.md) — Digital distribution platform.
+- [Bots](bots.md) — Building bots.
+- [Site Reliability Engineering](site-reliability-engineering.md) — Listed resource: Site Reliability Engineering.
+- [DTrace](dtrace.md) — Dynamic tracing framework.
+- [Userscripts](userscripts.md) — Enhance your browsing experience.
+- [Pokémon](pok-mon.md) — Resources for Pokémon and Pokémon GO.
+- [ChatOps](chatops.md) — Managing technical and business operations through a chat.
+- [Falsehood](falsehood.md) — Falsehoods programmers believe in.
+- [Domain-Driven Design](domain-driven-design.md) — Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](quantified-self.md) — Self-tracking through technology.
+- [Web Design](web-design.md) — For digital designers.
+- [Creative Coding](creative-coding.md) — Programming something expressive instead of something functional.
+- [No-Login Web Apps](no-login-web-apps.md) — Web apps that work without login.
+- [Free Software](free-software.md) — Free as in freedom.
+- [Framer](framer.md) — Prototyping interactive UI designs.
+- [Markdown](markdown.md) — Markup language.
+- [Dev Fun](dev-fun.md) — Funny developer projects.
+- [Magento 2](magento-2.md) — Open Source eCommerce built with PHP.
+- [TikZ](tikz.md) — Graph drawing packages for TeX/LaTeX/ConTeXt.
+- [Ad-Free](ad-free.md) — Alternatives without ads.
+- [Prometheus](prometheus.md) — Open-source monitoring system.
+- [Homematic](homematic.md) — Smart home devices.
+- [Ledger](ledger.md) — Double-entry accounting on the command-line.
+- [Web Monetization](web-monetization.md) — A free open web standard service that allows you to send money directly in your browser.
+- [Uncopyright](uncopyright.md) — Public domain works.
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Open Source Supporters](open-source-supporters.md) — Companies that offer their tools and services for free to open source projects.
+- [Design Principles](design-principles.md) — Create better and more consistent designs and experiences.
+- [Theravada](theravada.md) — Teachings from the Theravada Buddhist tradition.
+- [inspectIT](inspectit.md) — Open source Java app performance management tool.
+- [Open Source Maintainers](open-source-maintainers.md) — The experience of being an open source maintainer.
+- [Calculators](calculators.md) — Tools for every platform.
+- [Captcha](captcha.md) — A type of challenge–response test used in computing to determine whether or not the user is human.
+- [Jupyter](jupyter.md) — Create and share documents that contain code, equations, visualizations and narrative text.
+- [FIRST Robotics Competition](first-robotics-competition.md) — International high school robotics championship.
+- [Speakers](speakers.md) — Conference and meetup speakers in the programming and design community.
+- [Board Games](board-games.md) — Table-top gaming fun for all.
+- [Software Patreons](software-patreons.md) — Fund individual programmers or the development of open source projects.
+- [Parasite](parasite.md) — Parasites and host-pathogen interactions.
+- [Food](food.md) — Projects on GitHub related to food.
+- [Bitcoin Payment Processors](bitcoin-payment-processors.md) — Start accepting Bitcoin.
+- [Scientific Computing](scientific-computing.md) — Solving complex scientific problems using computers.
+- [Amazon Sellers](amazon-sellers.md) — Listed resource: Amazon Sellers.
+- [Agriculture](agriculture.md) — Open source technology for farming and gardening.
+- [Product Design](product-design.md) — Design a product from the initial concept to production.
+- [Prisma](prisma.md) — Turn your database into a GraphQL API.
+- [Software Architecture](software-architecture.md) — The discipline of designing and building software.
+- [Connectivity Data and Reports](connectivity-data-and-reports.md) — Better understand who has access to telecommunication and internet infrastructure and on what terms.
+- [Stacks](stacks-2.md) — Tech stacks for building different apps and features.
+- [Cytodata](cytodata.md) — Image-based profiling of biological phenotypes for computational biologists.
+- [IRC](irc.md) — Open source messaging protocol.
+- [Advertising](advertising.md) — Programmatic media and ad tech for websites.
+- [Earth](earth.md) — Find ways to resolve the climate crisis.
+- [Naming](naming.md) — Guides for naming things in computer science.
+- [Web Archiving](web-archiving.md) — An effort to preserve the Web for future generations.
+- [WP-CLI](wp-cli.md) — Command-line interface for WordPress.
+- [Credit Modeling](credit-modeling.md) — Methods for classifying credit applicants into risk classes.
+- [Ansible](ansible.md) — A Python-based, open-source IT configuration management and automation platform.
+- [Biological Visualizations](biological-visualizations.md) — Interactive visualization of biological data on the web.
+- [QR Code](qr-code.md) — A type of matrix barcode that can be used to store and share a small amount of information.
+- [Veganism](veganism.md) — Making the plant-based lifestyle easy and accessible.
+- [Translations](translations.md) — The transfer of the meaning of a text from one language to another.
+- [Scriptable](scriptable.md) — An iOS app for automation in JavaScript.
+- [WebXR](webxr.md) — Enables immersive virtual reality and augmented reality content on the web.
+- [Computational Geometry](computational-geometry.md) — Computational approaches for problems in geometry.
+- [OpenStreetMap](openstreetmap.md) — An open data mapping project utilized by many apps and devices.
+- [Computational Biology](computational-biology.md) — Computational approaches applied to problems in biology.
+- [Read the Docs](read-the-docs.md) — Example documentation projects to inspire and help bootstrap new documentation projects.
+- [Quarto](quarto.md) — Scientific and technical open-source publishing system built on Pandoc.
+- [Biological Image Analysis](biological-image-analysis.md) — Interpreting biological phenomena using images.
+- [ChatGPT](chatgpt.md) — Artificial intelligence chatbot developed by OpenAI.
+- [Whisper](whisper.md) — Open-source AI-powered speech recognition system developed by OpenAI.
+- [Stock Trading](stock-trading.md) — Purchase and sale of equities of publicly traded companies to generate profits.
+- [Steam Deck](steam-deck.md) — A handheld gaming computer developed by Valve.
+- [Astrophotography](astrophotography.md) — Photography of astronomical objects, celestial events, or areas of the night sky.
+- [HPC](hpc.md) — High Performance Computing.
+- [Geocaching](geocaching.md) — Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Regex](regex.md) — Specialized language for matching patterns in text.
+- [Event-Driven Architecture](event-driven-architecture.md) — A software architecture approach where services collaborate by publishing and subscribing to events.
+- [Permacomputing](permacomputing.md) — Resilient and regenerative computing practices inspired by permaculture.
+- [Standards](standards.md) — Proposals and standards that define and enhance software, languages, and related technologies.
+- [Claude Code](claude-code.md) — Terminal-based AI coding assistant by Anthropic.
+- [Gemini CLI](gemini-cli.md) — Terminal-based AI coding assistant by Google.
+- [SAP Commerce](sap-commerce.md) — An e-commerce platform built with Java, Spring MVC, and Angular.
+- [Tech Ethics](tech-ethics.md) — Mitigating and avoiding the potential negative effects of technology on society.
+- [Copilot Agents](copilot-agents.md) — AI pair programming assistant by GitHub that provides code suggestions and completions.
