@@ -1,0 +1,23 @@
+# Development Environment
+
+- [Quick Look Plugins](quick-look-plugins.md) — For macOS.
+- [Dev Env](dev-env.md) — Listed resource: Dev Env.
+- [Dotfiles](dotfiles.md) — Listed resource: Dotfiles.
+- [Shell](shell.md) — Listed resource: Shell.
+- [Fish](fish.md) — User-friendly shell.
+- [Command-Line Apps](command-line-apps.md) — Listed resource: Command-Line Apps.
+- [ZSH Plugins](zsh-plugins.md) — Listed resource: ZSH Plugins.
+- [GitHub](github.md) — Hosting service for Git repositories.
+- [Browser Extensions](browser-extensions.md) — Listed resource: Browser Extensions.
+- [Cheat Sheet](cheat-sheet.md) — Listed resource: Cheat Sheet.
+- [Pinned Gists](pinned-gists.md) — Dynamic pinned gists for your GitHub profile.
+- [Git Cheat Sheet & Git Flow](git-cheat-sheet-git-flow.md) — Listed resource: Git Cheat Sheet & Git Flow.
+- [Git Tips](git-tips.md) — Listed resource: Git Tips.
+- [Git Add-ons](git-add-ons.md) — Enhance the `git` CLI.
+- [Git Hooks](git-hooks.md) — Scripts for automating tasks during `git` workflows.
+- [SSH](ssh.md) — Listed resource: SSH.
+- [FOSS for Developers](foss-for-developers.md) — Listed resource: FOSS for Developers.
+- [Hyper](hyper.md) — Cross-platform terminal app built on web technologies.
+- [Terminals Are Sexy](terminals-are-sexy.md) — Listed resource: Terminals Are Sexy.
+- [GitHub Actions](github-actions.md) — Create tasks to automate your workflow and share them with others on GitHub.
+- [WezTerm](wezterm.md) — Powerful cross-platform terminal emulator.

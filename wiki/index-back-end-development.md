@@ -1,0 +1,34 @@
+# Back-End Development
+
+- [Flask](flask.md) — Python framework.
+- [Docker](docker.md) — Listed resource: Docker.
+- [Vagrant](vagrant.md) — Automation virtual machine environment.
+- [Pyramid](pyramid.md) — Python framework.
+- [Play1 Framework](play1-framework.md) — Listed resource: Play1 Framework.
+- [CakePHP](cakephp.md) — PHP framework.
+- [Symfony](symfony.md) — PHP framework.
+- [Education](education-2.md) — Listed resource: Education.
+- [Laravel](laravel.md) — PHP framework.
+- [Education](education-3.md) — Listed resource: Education.
+- [Rails](rails.md) — Web app framework for Ruby.
+- [Gems](gems.md) — Packages.
+- [Phalcon](phalcon.md) — PHP framework.
+- [Useful `.htaccess` Snippets](useful-htaccess-snippets.md) — Listed resource: Useful `.htaccess` Snippets.
+- [nginx](nginx.md) — Web server.
+- [Dropwizard](dropwizard.md) — Java framework.
+- [Kubernetes](kubernetes.md) — Open-source platform that automates Linux container operations.
+- [Lumen](lumen.md) — PHP micro-framework.
+- [Serverless Framework](serverless-framework.md) — Serverless computing and serverless architectures.
+- [Apache Wicket](apache-wicket.md) — Java web app framework.
+- [Vert.x](vert-x.md) — Toolkit for building reactive apps on the JVM.
+- [Terraform](terraform.md) — Tool for building, changing, and versioning infrastructure.
+- [Vapor](vapor.md) — Server-side development in Swift.
+- [Dash](dash.md) — Python web app framework.
+- [FastAPI](fastapi.md) — Python web app framework.
+- [CDK](cdk.md) — Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](iam.md) — User accounts, authentication and authorization.
+- [Slim](slim.md) — PHP framework.
+- [Fiber](fiber.md) — Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize](kustomize.md) — Kubernetes native declarative configuration management tool.
+- [OpenTofu](opentofu.md) — Open-source infrastructure as code tool.
+- [Reflex](reflex.md) — Python web framework for building both your frontend and backend with no JavaScript.

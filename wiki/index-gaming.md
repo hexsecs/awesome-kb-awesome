@@ -1,0 +1,30 @@
+# Gaming
+
+- [Game Development](game-development.md) — Listed resource: Game Development.
+- [Game Talks](game-talks.md) — Listed resource: Game Talks.
+- [Godot](godot.md) — Game engine.
+- [Open Source Games](open-source-games.md) — Listed resource: Open Source Games.
+- [Chess](chess.md) — Listed resource: Chess.
+- [LÖVE](l-ve.md) — Game engine.
+- [PICO-8](pico-8.md) — Fantasy console.
+- [Game Boy Development](game-boy-development.md) — Listed resource: Game Boy Development.
+- [Construct 2](construct-2.md) — Game engine.
+- [Gideros](gideros.md) — Game engine.
+- [Minecraft](minecraft.md) — Sandbox video game.
+- [ComputerCraft](computercraft.md) — Minecraft mod that adds programmable computers.
+- [Game Datasets](game-datasets.md) — Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](haxe-game-development.md) — A high-level strongly typed programming language used to produce cross-platform native code.
+- [libGDX](libgdx.md) — Java game framework.
+- [PlayCanvas](playcanvas.md) — Game engine.
+- [Game Remakes](game-remakes.md) — Actively maintained open-source game remakes.
+- [Flame](flame.md) — Game engine for Flutter.
+- [Discord Communities](discord-communities.md) — Chat with friends and communities.
+- [CHIP-8](chip-8.md) — Virtual computer game machine from the 70s.
+- [Games of Coding](games-of-coding.md) — Learn a programming language by making games.
+- [Esports](esports.md) — Video games played as a sport.
+- [Learn Gamedev](learn-gamedev.md) — The craft of video game creation.
+- [Game Engine Development](game-engine-development.md) — Building software to speed up game creation.
+- [GameMaker](gamemaker.md) — Game engine.
+- [Game Production](game-production.md) — Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js](babylon-js.md) — Game engine for cross-platform web and native game development.
+- [Roblox](roblox.md) — Immersive platform for hosting millions of diverse experiences.

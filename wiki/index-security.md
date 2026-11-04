@@ -1,0 +1,31 @@
+# Security
+
+- [Application Security](application-security.md) — Listed resource: Application Security.
+- [Security](security.md) — Listed resource: Security.
+- [CTF](ctf.md) — Capture The Flag.
+- [Cyber Security University](cyber-security-university.md) — Free educational resources that focus on learning by doing.
+- [Malware Analysis](malware-analysis.md) — Listed resource: Malware Analysis.
+- [Android Security](android-security.md) — Listed resource: Android Security.
+- [Hacking](hacking.md) — Listed resource: Hacking.
+- [Hacking Spots](hacking-spots.md) — Listed resource: Hacking Spots.
+- [Honeypots](honeypots.md) — Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](incident-response.md) — Listed resource: Incident Response.
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md) — Listed resource: Vehicle Security and Car Hacking.
+- [Web Security](web-security.md) — Security of web apps & services.
+- [Lockpicking](lockpicking.md) — The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](cybersecurity-blue-team.md) — Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](fuzzing.md) — Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](embedded-and-iot-security.md) — Listed resource: Embedded and IoT Security.
+- [GDPR](gdpr.md) — Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](devsecops.md) — Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](executable-packing.md) — Packing and unpacking executable formats.
+- [Malware Persistence](malware-persistence.md) — Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](evm-security.md) — Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](password-cracking.md) — The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](security-card-games.md) — Train your skills and discuss various security topics.
+- [Suricata](suricata.md) — Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](prompt-injection.md) — A type of vulnerability that specifically targets machine learning models.
+- [Detection Engineering](detection-engineering.md) — Design, build, and operate detective cybersecurity controls.
+- [Annual Security Reports](annual-security-reports.md) — Exploring cybersecurity trends, insights, and challenges.
+- [CI/CD Attacks](ci-cd-attacks.md) — Offensive research of systems and processes related to developing and deploying code.
+- [OpenID Connect](openid-connect.md) — Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.

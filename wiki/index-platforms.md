@@ -1,0 +1,57 @@
+# Platforms
+
+- [Node.js](node-js.md) — Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Cross-Platform](cross-platform.md) — Writing cross-platform code on Node.js.
+- [Frontend Development](frontend-development.md) — Listed resource: Frontend Development.
+- [iOS](ios.md) — Mobile operating system for Apple phones and tablets.
+- [Android](android.md) — Mobile operating system developed by Google.
+- [IoT & Hybrid Apps](iot-hybrid-apps.md) — Listed resource: IoT & Hybrid Apps.
+- [Electron](electron.md) — Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova](cordova.md) — JavaScript API for hybrid apps.
+- [React Native](react-native.md) — JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+- [Containers](containers.md) — Listed resource: Containers.
+- [eBPF](ebpf.md) — Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+- [Arch-based Projects](arch-based-projects.md) — Linux distributions and projects based on Arch Linux.
+- [AppImage](appimage.md) — Package apps in a single file that works on various mainstream Linux distributions.
+- [Omarchy](omarchy.md) — Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
+- [Screensavers](screensavers.md) — Listed resource: Screensavers.
+- [Apps](apps.md) — Listed resource: Apps.
+- [Open Source Apps](open-source-apps.md) — Listed resource: Open Source Apps.
+- [watchOS](watchos.md) — Operating system for the Apple Watch.
+- [JVM](jvm.md) — Listed resource: JVM.
+- [Salesforce](salesforce.md) — Listed resource: Salesforce.
+- [Amazon Web Services](amazon-web-services.md) — Listed resource: Amazon Web Services.
+- [Windows](windows.md) — Consumer desktop operating system.
+- [PowerToys Run Plugins](powertoys-run-plugins.md) — Community plugins for the Windows quick launcher.
+- [IPFS](ipfs.md) — P2P hypermedia protocol.
+- [Fuse](fuse.md) — Mobile development tools.
+- [Heroku](heroku.md) — Cloud platform as a service.
+- [Raspberry Pi](raspberry-pi.md) — Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [WebExtensions](webextensions.md) — Cross-browser extension system.
+- [Smart TV](smart-tv.md) — Create apps for different TV platforms.
+- [GNOME](gnome.md) — Simple and distraction-free desktop environment for Linux.
+- [KDE](kde.md) — A free software community dedicated to creating an open and user-friendly computing experience.
+- [.NET](net.md) — Listed resource: .NET.
+- [Core](core.md) — Listed resource: Core.
+- [Roslyn](roslyn.md) — Open-source compilers and code analysis APIs for C# and VB.NET languages.
+- [DigitalOcean](digitalocean.md) — Cloud computing platform designed for developers.
+- [Flutter](flutter.md) — Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+- [Home Assistant](home-assistant.md) — Open source home automation that puts local control and privacy first.
+- [IBM Cloud](ibm-cloud.md) — Cloud platform for developers and companies.
+- [Firebase](firebase.md) — App development platform built on Google Cloud.
+- [Adafruit IO](adafruit-io.md) — Visualize and store data from any device.
+- [Cloudflare](cloudflare.md) — CDN, DNS, DDoS protection, and security for your site.
+- [Actions on Google](actions-on-google.md) — Developer platform for Google Assistant.
+- [ESP](esp.md) — Low-cost microcontrollers with WiFi and broad IoT applications.
+- [Deno](deno.md) — A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [DOS](dos.md) — Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+- [Nix](nix.md) — Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration](integration.md) — Linking together different IT systems (components) to functionally cooperate as a whole.
+- [Node-RED](node-red.md) — A programming tool for wiring together hardware devices, APIs, and online services.
+- [Low Code](low-code.md) — Allowing business professionals to address their needs on their own with little to no coding skills.
+- [Capacitor](capacitor.md) — Cross-platform open source runtime for building Web Native apps.
+- [ArcGIS Developer](arcgis-developer.md) — Mapping and location analysis platform for developers.
+- [Bluetooth Low Energy](bluetooth-low-energy.md) — Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+- [Uno Platform](uno-platform.md) — Open-source .NET UI platform for building cross-platform apps.
+- [Firebase Genkit](firebase-genkit.md) — An open-source framework for building AI-powered apps and features.
+- [Backstage](backstage.md) — Open-source platform for building Internal Developer Portals that unify tools and workflows.

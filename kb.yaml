@@ -1,0 +1,32 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-awesome",
+  "uid": "01a1a885-3779-75ad-bebf-1cd6792dff3e",
+  "title": "Awesome Lists (Awesome KB)",
+  "description": "Curated awesome lists and discovery resources from sindresorhus/awesome, captured as source-attributed OpenShelf stubs.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC0-1.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "awesome",
+    "lists",
+    "resources"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:sindresorhus/awesome",
+    "file": "readme.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "bc98e517ddca672f55f9857d714fc3ea3c3540b2"
+  }
+}
